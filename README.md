@@ -12,3 +12,6 @@ O projeto inclui CSS e manipulação de campos através do JS.
 
 ## Demonstração online
 Acesse https://heltongti.github.io/IMC/
+
+## licença
+A licença deste software é **MIT**
